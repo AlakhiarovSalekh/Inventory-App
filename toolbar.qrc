@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="path">
+    <file>Suppliers/Suppliers/addSupplier.svg</file>
+    <file>Suppliers/Suppliers/Left_Arrow_-512.png</file>
+  </qresource>
+</RCC>

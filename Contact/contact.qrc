@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Contact">
+    <file>Contact/Bill.png</file>
+    <file>Contact/contact.png</file>
+  </qresource>
+</RCC>

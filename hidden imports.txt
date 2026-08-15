@@ -1,0 +1,1 @@
+jinja2, xhtml2pdf, xhtml2pdf.pisa, reportlab.graphics.barcode.common, reportlab.graphics.barcode.code128, reportlab.graphics.barcode.code93, reportlab.graphics.barcode.code39, reportlab.graphics.barcode.usps, reportlab.graphics.barcode.usps4s, reportlab.graphics.barcode.qr,reportlab.graphics.barcode.ecc200datamatrix

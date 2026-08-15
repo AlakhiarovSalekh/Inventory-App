@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Homepage">
+    <file>Homepage/background.png</file>
+    <file>Homepage/Billing.png</file>
+    <file>Homepage/Customer.png</file>
+    <file>Homepage/Orders.png</file>
+    <file>Homepage/Pricing.png</file>
+    <file>Homepage/Stock.png</file>
+    <file>Homepage/Supplier.png</file>
+  </qresource>
+</RCC>

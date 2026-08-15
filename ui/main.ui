@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>511</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="statusTip">
+   <string/>
+  </property>
+  <property name="dockOptions">
+   <set>QMainWindow::AllowTabbedDocks|QMainWindow::AnimatedDocks</set>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <property name="leftMargin">
+     <number>0</number>
+    </property>
+    <property name="topMargin">
+     <number>0</number>
+    </property>
+    <property name="rightMargin">
+     <number>0</number>
+    </property>
+    <property name="bottomMargin">
+     <number>0</number>
+    </property>
+    <property name="spacing">
+     <number>6</number>
+    </property>
+    <item row="0" column="0">
+     <widget class="QStackedWidget" name="stackedWidget">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Minimum" vsizetype="Minimum">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="homepageWindow" name="homepage"/>
+      <widget class="supplierWindow" name="supplier"/>
+      <widget class="orderWindow" name="order"/>
+      <widget class="billingWindow" name="billing"/>
+      <widget class="contactWindow" name="contact"/>
+      <widget class="pricingWindow" name="pricing"/>
+      <widget class="stockWindow" name="stock"/>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>640</width>
+     <height>27</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>homepageWindow</class>
+   <extends>QWidget</extends>
+   <header>Homepage/homepage</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>supplierWindow</class>
+   <extends>QWidget</extends>
+   <header>Suppliers/suppliers</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>orderWindow</class>
+   <extends>QWidget</extends>
+   <header>Orders/order</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>billingWindow</class>
+   <extends>QWidget</extends>
+   <header>Billing/billing</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>contactWindow</class>
+   <extends>QWidget</extends>
+   <header>Contact/contact</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>pricingWindow</class>
+   <extends>QWidget</extends>
+   <header>Pricing/pricing</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>stockWindow</class>
+   <extends>QWidget</extends>
+   <header>Stock/stock</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
