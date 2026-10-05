@@ -1,4 +1,4 @@
-# Inventory Management Desktop App
+# Python PyQt5 Inventory Management Desktop App
 
 [![Python](https://img.shields.io/badge/Python-Desktop-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-GUI-41CD52?logo=qt&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/)
