@@ -60,6 +60,12 @@ This repository is a practical example of building a multi-screen business deskt
 
 Bug fixes, setup/documentation improvements, UI refinements, and maintainability improvements are welcome.
 
+## More Projects by Salekh
+
+- [SalekhPos](https://github.com/AlakhiarovSalekh/SalekhPos) — security-focused retail and POS platform.
+- [Hotel Booking Management System](https://github.com/AlakhiarovSalekh/Hotel-Managment-System) — PHP/MySQL booking management.
+- [Food Ordering App](https://github.com/AlakhiarovSalekh/Food-Ordering-App) — Java client-server ordering application.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
