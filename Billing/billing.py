@@ -260,7 +260,7 @@ class billingWindow(Base, Form):
                 resultFile = open(outputFilename, "w+b")
                 pisaStatus = pisa.CreatePDF(
                         sourceHtml,                # the HTML to convert
-                        dest=resultFile)           # file handle to recieve result
+                        dest=resultFile)           # file handle to receive result
         
                 # close output file
                 resultFile.close()                 # close output file
