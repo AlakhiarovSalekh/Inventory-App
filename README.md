@@ -60,6 +60,8 @@ This repository is a practical example of building a multi-screen business deskt
 
 Bug fixes, setup/documentation improvements, UI refinements, and maintainability improvements are welcome.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [SalekhPos](https://github.com/AlakhiarovSalekh/SalekhPos) — security-focused retail and POS platform.
